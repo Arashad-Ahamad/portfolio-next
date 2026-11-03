@@ -26,7 +26,7 @@ export const skills = [
   { group: "State & Data", items: ["Redux Toolkit", "createAsyncThunk", "REST APIs", "Fetch API", "Axios"] },
   { group: "Styling & UI", items: ["Tailwind CSS", "Shadcn UI", "Framer Motion", "SwiperJS", "Responsive Design"] },
   { group: "Forms & Validation", items: ["Zod", "useActionState"] },
-  { group: "Tools & Workflow", items: ["Git & GitHub", "npm", "Vite", "ESLint", "Prettier", "Husky"] },
+  { group: "Tools & Workflow", items: ["Git & GitHub", "localStorage", "npm", "Vite", "ESLint", "Prettier", "Husky"] },
   { group: "Deployment", items: ["Vercel", "Netlify"] },
 ];
 
